@@ -6,6 +6,8 @@ Evidence is provided here of the following objectives:
 4. Communicate effectively in a professional context
 5. Define and demonstrate conflict management and resolution strategies
 
-## Link Example
+## Web Link Example
 [test](https://www.example.com)
+
+## File Link
 [Ice Cream](Icecreamparagraph.docx)
