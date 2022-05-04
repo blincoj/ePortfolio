@@ -7,7 +7,7 @@ Evidence is provided here of the following objectives:
 5. Define and demonstrate conflict management and resolution strategies
 
 ## Web Link Example
-[test](https://www.example.com)
+[CQU](https://www.cqu.edu.au)
 
 ## File Link
 [Ice Cream](Icecreamparagraph.docx)
